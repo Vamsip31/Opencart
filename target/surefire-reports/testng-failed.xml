@@ -16,8 +16,8 @@
       <class name="testCases.TC_003_LoginDDT">
         <methods>
           <include name="tearDown"/>
-          <include name="setup"/>
           <include name="verify_loginDDT" invocation-numbers="2"/>
+          <include name="setup"/>
         </methods>
       </class> <!-- testCases.TC_003_LoginDDT -->
     </classes>

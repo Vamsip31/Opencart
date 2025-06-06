@@ -7,6 +7,7 @@ D:\Learnings\Selenuim\Opencart\src\test\java\testBase\BaseClass.java
 D:\Learnings\Selenuim\Opencart\src\test\java\testCases\TC_001_AccountRegistrationTest.java
 D:\Learnings\Selenuim\Opencart\src\test\java\testCases\TC_002_LoginTest.java
 D:\Learnings\Selenuim\Opencart\src\test\java\testCases\TC_003_LoginDDT.java
+D:\Learnings\Selenuim\Opencart\src\test\java\testCases\TC_004_Search.java
 D:\Learnings\Selenuim\Opencart\src\test\java\utilities\DataProviders.java
 D:\Learnings\Selenuim\Opencart\src\test\java\utilities\ExcelUtility.java
 D:\Learnings\Selenuim\Opencart\src\test\java\utilities\ExtentReportManager.java
