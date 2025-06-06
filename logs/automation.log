@@ -1,0 +1,23 @@
+10:49:44:501 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:49:44:506 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:49:44:511 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:49:44:512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:49:44:512 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:49:44:516 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:49:44:522 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:49:44:523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:49:44:523 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:49:44:534 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:49:44:545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+10:49:44:545 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+10:49:44:546 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+10:49:44:549 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+10:49:44:555 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+10:49:46:677 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+10:49:46:678 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+10:49:48:616 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+10:49:48:618 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+10:49:50:552 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+10:50:01:705 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
+10:50:01:706 [main] INFO  testCases.TC_003_LoginDDT - **** Starting TC_003_LoginDDT *****
+10:50:03:533 [main] INFO  testCases.TC_003_LoginDDT - **** Finished TC_003_LoginDDT *****
